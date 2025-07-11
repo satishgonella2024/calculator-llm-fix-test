@@ -1,0 +1,16 @@
+{
+  "languages": [
+    "Python"
+  ],
+  "created_at": "2025-07-11T21:21:04.135804",
+  "github_url": "https://github.com/satishgonella2024/calculator-debug-test",
+  "total_files": 8,
+  "strategies_used": [
+    "test-driven-development"
+  ],
+  "confidence_score": 0.95,
+  "github_pushed_at": "2025-07-11T21:21:45.873043",
+  "github_structure": "enterprise",
+  "advanced_features": true,
+  "generator_version": "2.0"
+}
